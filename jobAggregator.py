@@ -1,4 +1,4 @@
-__author__ = 'Chandra  & Rashmi'
+__author__ = 'Chandra'
 import xml.dom.minidom
 from collections import defaultdict
 import urllib2
